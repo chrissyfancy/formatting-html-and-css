@@ -1,0 +1,46 @@
+body {
+  background-color: #F6F6EF;
+  font-family: Tahoma, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  font-family: Courier;
+  font-weight: bold;
+  font-size: 1em;
+  background-color: #FD6620;
+  color: white;
+  display: block;
+  padding: 5px 0px 5px 5px;
+  margin: 0px;
+  width: 100%;
+}
+
+.opener {
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: .65em;
+  color: black;
+  display: inline-block;
+  text-align: center;
+  width: 50%;
+  padding-left: 100px;
+}
+
+h1 {
+  font-size: 1em;
+}
+
+h2 {
+  font-size: .8em;
+}
+
+img {
+  height:auto;
+  width: 20%;
+}
+
+li {
+  font-size: .7em;
+}
